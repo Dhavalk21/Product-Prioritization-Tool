@@ -2,6 +2,8 @@
 
 An interactive, client-side web application designed to help Product Managers prioritize feature backlogs, align initiatives with high-level business objectives, and simulate resource constraints in real-time.
 
+https://dhavalk21.github.io/Product-prioritization-tool/
+
 ## 🚀 Key Features
 
 * __Objective-Aligned Planning:__ Every initiative is mapped to a primary business driver (e.g., Revenue Expansion, User Acquisition, Personalization, Operational Efficiency).
