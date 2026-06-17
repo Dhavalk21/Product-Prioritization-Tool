@@ -2,7 +2,8 @@
 
 An interactive, client-side web application designed to help Product Managers prioritize feature backlogs, align initiatives with high-level business objectives, and simulate resource constraints in real-time.
 
-https://dhavalk21.github.io/Product-prioritization-tool/
+### 🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/Product-prioritization-tool/)
+
 
 ## 🚀 Key Features
 
