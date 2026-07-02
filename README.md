@@ -4,7 +4,6 @@ An interactive, client-side web application designed to help Product Managers pr
 
 ### 🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/Product-Prioritization-Tool/)
 
-
 ## 🚀 Key Features
 
 * __Objective-Aligned Planning:__ Every initiative is mapped to a primary business driver (e.g., Revenue Expansion, User Acquisition, Personalization, Operational Efficiency).
